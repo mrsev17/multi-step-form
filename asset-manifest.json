@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f752f97.css",
+    "main.css": "/static/css/main.04d299f6.css",
     "main.js": "/static/js/main.a470fda0.js",
     "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
@@ -13,11 +13,11 @@
     "index.html": "/index.html",
     "static/media/icon-arcade.svg": "/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
     "static/media/icon-checkmark.svg": "/static/media/icon-checkmark.6ba72db67010be44885b.svg",
-    "main.6f752f97.css.map": "/static/css/main.6f752f97.css.map",
+    "main.04d299f6.css.map": "/static/css/main.04d299f6.css.map",
     "main.a470fda0.js.map": "/static/js/main.a470fda0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f752f97.css",
+    "static/css/main.04d299f6.css",
     "static/js/main.a470fda0.js"
   ]
 }
